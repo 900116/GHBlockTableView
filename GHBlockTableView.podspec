@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|  
   
   s.name         = "GHBlockTableView"  
-  s.version      = "1.1.3"  
+  s.version      = "1.0"  
   s.summary      = "A simple block table view item."  
   s.homepage     = "https://github.com/900116/GHBlockTableView"  
   s.license      = "MIT"  
