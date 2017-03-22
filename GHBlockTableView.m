@@ -166,7 +166,7 @@
         return 0.0;
     }
     if (self.sectionHeaderHeightHandler) {
-        return self.sectionHeaderHeightHandler(section);
+        return self.sectionFooterHeightHandler(section);
     }
     return 28.f;
 }
